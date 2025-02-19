@@ -16,7 +16,7 @@ public class SimpleCalculator {
         int productOfNumbers = firstNumber * secondNumber;
         double firstDouble = Double.valueOf(firstNumber);
         double secondDouble = Double.valueOf(secondNumber);
-        double quotientOfNumbers = firstNumber / secondNumber;
+        double quotientOfNumbers = firstDouble / secondDouble;
         System.out.println(firstNumber + " + " + secondNumber + " = " + sumOfNumbers);
         System.out.println(firstNumber + " - " + secondNumber + " = " + differenceOfNumbers);
         System.out.println(firstNumber + " * " + secondNumber + " = " + productOfNumbers);
