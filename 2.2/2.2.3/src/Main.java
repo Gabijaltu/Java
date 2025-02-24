@@ -11,7 +11,7 @@ public class Main {
         double secondPointX = Double.parseDouble(scan.nextLine());
         System.out.println("Enter y2:");
         double secondPointY = Double.parseDouble(scan.nextLine());
-        double distanceBetweenTwoPoints = Math.sqrt((secondPointX - firstPointX) * (secondPointX - firstPointX) + (secondPointY - firstPointY) * (secondPointY - firstPointY));
+        double distanceBetweenTwoPoints = Math.sqrt(Math.pow(secondPointX - firstPointX,2) + Math.pow(secondPointY - firstPointY,2));
         System.out.println("The distance between the two points is " + distanceBetweenTwoPoints);
     }
 }
