@@ -1,10 +1,11 @@
 
 public class Square {
     public static void main(String[] args) {
-        for (int size = 0; size < 8; size++) {
-            for (int minute = 0; minute < 60; minute++) {
-                System.out.println(hour + ":" + minute);
-            }
+        for (int square = 0; square < 1; square++) {
+            System.out.println("# # # # # # # #");
+            for (int height = 1; height < 7; height++)
+                System.out.println("#             #");
+            System.out.println("# # # # # # # #");
         }
     }
 }
