@@ -25,13 +25,14 @@ public class IndexOf {
         int searchingFor = Integer.valueOf(scanner.nextLine());
 
 
-        for (int i = 0; i < list.size(); i++) {
-           if (searchingFor == list.get(i)) {
-               int wantedIndex = list.indexOf(searchingFor);
-               System.out.println(searchingFor + " is at index " + wantedIndex);
-           }
+        for (int i = 0; i < list.size(); i++)
+               if (list.get(i) == searchingFor)
+               System.out.println(searchingFor + " is at index " + i);
+
 
         }
 
     }
-}
+
+
+
