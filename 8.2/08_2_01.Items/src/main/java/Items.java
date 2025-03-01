@@ -10,7 +10,20 @@ public class Items {
         ArrayList<Item> items = new ArrayList<>();
         Scanner scanner = new Scanner(System.in);
 
+        while (true) {
+            System.out.print("Name: ");
 
+            String name = scanner.nextLine();
 
+            Item item = new Item(name);
+
+            items.add(item);
+
+            if (name.isEmpty()) {
+                break;
+            }
+        }
+
+        System.out.println(items.toString());
     }
 }
