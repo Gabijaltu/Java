@@ -4,25 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="283a04b6-b8bd-4da2-83b2-914ca9de411b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_2_01.Items/src/main/java/Items.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_01.Items/src/main/java/Items.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_2_02.PersonalInformation/src/main/java/PersonalInformationCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_02.PersonalInformation/src/main/java/PersonalInformationCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_2_03.TelevisionPrograms/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_03.TelevisionPrograms/src/main/java/Main.java" afterDir="false" />
+    <list default="true" id="283a04b6-b8bd-4da2-83b2-914ca9de411b" name="Changes" comment="+3">
+      <change afterPath="$PROJECT_DIR$/08_2_04.Books/src/main/java/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_2_06.OverloadedCounter/src/main/java/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_2_04.Books/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_04.Books/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_2_05.ConstructorOverload/src/main/java/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_05.ConstructorOverload/src/main/java/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_2_06.OverloadedCounter/src/main/java/MainProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_06.OverloadedCounter/src/main/java/MainProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_2_07.BiggestPetShop/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_07.BiggestPetShop/src/main/java/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_2_08.HealthStation/src/main/java/HealthStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_08.HealthStation/src/main/java/HealthStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_2_08.HealthStation/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_08.HealthStation/src/main/java/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2tj0AcqUD8CgiFMkEBNtZEJFgx3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,13 +41,26 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Items.executor": "Run",
+    "Application.MainProgram.executor": "Debug",
     "JUnit.All in 08_2_01.Items.executor": "Run",
     "JUnit.All in 08_2_02.PersonalInformation (1).executor": "Run",
     "JUnit.All in 08_2_02.PersonalInformation (2).executor": "Run",
     "JUnit.All in 08_2_02.PersonalInformation (3).executor": "Run",
     "JUnit.All in 08_2_02.PersonalInformation (4).executor": "Run",
     "JUnit.All in 08_2_02.PersonalInformation.executor": "Run",
+    "JUnit.All in 08_2_03.TelevisionPrograms (1).executor": "Run",
     "JUnit.All in 08_2_03.TelevisionPrograms.executor": "Run",
+    "JUnit.All in 08_2_04.Books.executor": "Run",
+    "JUnit.All in 08_2_05.ConstructorOverload (1).executor": "Run",
+    "JUnit.All in 08_2_05.ConstructorOverload.executor": "Run",
+    "JUnit.All in 08_2_06.OverloadedCounter (1).executor": "Run",
+    "JUnit.All in 08_2_06.OverloadedCounter (2).executor": "Run",
+    "JUnit.All in 08_2_06.OverloadedCounter (3).executor": "Run",
+    "JUnit.All in 08_2_06.OverloadedCounter (4).executor": "Run",
+    "JUnit.All in 08_2_06.OverloadedCounter.executor": "Run",
+    "JUnit.All in 08_2_07.BiggestPetShop.executor": "Run",
+    "JUnit.All in 08_2_08.HealthStation (1).executor": "Run",
+    "JUnit.All in 08_2_08.HealthStation.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -45,41 +68,41 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.All in 08_2_03.TelevisionPrograms (1)">
-    <configuration name="All in 08_2_02.PersonalInformation (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="08_2_02.PersonalInformation" />
+  <component name="RunManager" selected="JUnit.All in 08_2_08.HealthStation (2)">
+    <configuration name="All in 08_2_06.OverloadedCounter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="08_2_06.OverloadedCounter" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in 08_2_02.PersonalInformation (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="08_2_02.PersonalInformation" />
+    <configuration name="All in 08_2_07.BiggestPetShop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="08_2_07.BiggestPetShop" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in 08_2_02.PersonalInformation (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="08_2_02.PersonalInformation" />
+    <configuration name="All in 08_2_08.HealthStation (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="08_2_08.HealthStation" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in 08_2_03.TelevisionPrograms (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="08_2_03.TelevisionPrograms" />
+    <configuration name="All in 08_2_08.HealthStation (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="08_2_08.HealthStation" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in 08_2_03.TelevisionPrograms" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="08_2_03.TelevisionPrograms" />
+    <configuration name="All in 08_2_08.HealthStation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="08_2_08.HealthStation" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
@@ -88,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in 08_2_03.TelevisionPrograms (1)" />
-        <item itemvalue="JUnit.All in 08_2_03.TelevisionPrograms" />
-        <item itemvalue="JUnit.All in 08_2_02.PersonalInformation (4)" />
-        <item itemvalue="JUnit.All in 08_2_02.PersonalInformation (3)" />
-        <item itemvalue="JUnit.All in 08_2_02.PersonalInformation (2)" />
+        <item itemvalue="JUnit.All in 08_2_08.HealthStation (2)" />
+        <item itemvalue="JUnit.All in 08_2_08.HealthStation (1)" />
+        <item itemvalue="JUnit.All in 08_2_08.HealthStation" />
+        <item itemvalue="JUnit.All in 08_2_07.BiggestPetShop" />
+        <item itemvalue="JUnit.All in 08_2_06.OverloadedCounter" />
       </list>
     </recent_temporary>
   </component>
@@ -105,6 +128,34 @@
       <option name="presentableId" value="Default" />
       <updated>1739630331748</updated>
     </task>
+    <task id="LOCAL-00001" summary="+3">
+      <option name="closed" value="true" />
+      <created>1740853788543</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740853788543</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="+3" />
+    <option name="LAST_COMMIT_MESSAGE" value="+3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/08_2_06.OverloadedCounter/src/main/java/MainProgram.java</url>
+          <line>3</line>
+          <properties class="MainProgram" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
