@@ -4,16 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="283a04b6-b8bd-4da2-83b2-914ca9de411b" name="Changes" comment="+3">
+    <list default="true" id="283a04b6-b8bd-4da2-83b2-914ca9de411b" name="Changes" comment="+8.4,8.5,8.6,8.7,8.8">
       <change afterPath="$PROJECT_DIR$/08_2_04.Books/src/main/java/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_2_04.Books/target/classes/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_2_04.Books/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_2_04.Books/target/test-classes/BooksTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_2_05.ConstructorOverload/target/classes/MainProgram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_2_05.ConstructorOverload/target/classes/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_2_05.ConstructorOverload/target/test-classes/ConstructorOverloadTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/08_2_06.OverloadedCounter/src/main/java/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_2_06.OverloadedCounter/target/classes/Counter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_2_06.OverloadedCounter/target/classes/MainProgram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_2_06.OverloadedCounter/target/test-classes/ConstructorSignature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_2_06.OverloadedCounter/target/test-classes/CounterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_2_06.OverloadedCounter/target/test-classes/MethodSignature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_2_06.OverloadedCounter/target/test-classes/Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_2_07.BiggestPetShop/target/classes/MainProgram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_2_07.BiggestPetShop/target/classes/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_2_07.BiggestPetShop/target/classes/Pet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_2_07.BiggestPetShop/target/test-classes/TheBiggestPetShopTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_2_08.HealthStation/target/classes/HealthStation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_2_08.HealthStation/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_2_08.HealthStation/target/classes/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_2_08.HealthStation/target/test-classes/HealthStationTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/08_2_04.Books/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_04.Books/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/08_2_05.ConstructorOverload/src/main/java/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_05.ConstructorOverload/src/main/java/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/08_2_06.OverloadedCounter/src/main/java/MainProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_06.OverloadedCounter/src/main/java/MainProgram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/08_2_07.BiggestPetShop/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_07.BiggestPetShop/src/main/java/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/08_2_08.HealthStation/src/main/java/HealthStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_08.HealthStation/src/main/java/HealthStation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_2_08.HealthStation/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_08.HealthStation/src/main/java/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +79,7 @@
     "JUnit.All in 08_2_06.OverloadedCounter.executor": "Run",
     "JUnit.All in 08_2_07.BiggestPetShop.executor": "Run",
     "JUnit.All in 08_2_08.HealthStation (1).executor": "Run",
+    "JUnit.All in 08_2_08.HealthStation (2).executor": "Run",
     "JUnit.All in 08_2_08.HealthStation.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -141,7 +161,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="+3" />
-    <option name="LAST_COMMIT_MESSAGE" value="+3" />
+    <MESSAGE value="+8.4,8.5,8.6,8.7,8.8" />
+    <option name="LAST_COMMIT_MESSAGE" value="+8.4,8.5,8.6,8.7,8.8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
