@@ -5,34 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="283a04b6-b8bd-4da2-83b2-914ca9de411b" name="Changes" comment="+8.4,8.5,8.6,8.7,8.8">
-      <change afterPath="$PROJECT_DIR$/08_2_04.Books/src/main/java/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_2_04.Books/target/classes/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_2_04.Books/target/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_2_04.Books/target/test-classes/BooksTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_2_05.ConstructorOverload/target/classes/MainProgram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_2_05.ConstructorOverload/target/classes/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_2_05.ConstructorOverload/target/test-classes/ConstructorOverloadTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_2_06.OverloadedCounter/src/main/java/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_2_06.OverloadedCounter/target/classes/Counter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_2_06.OverloadedCounter/target/classes/MainProgram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_2_06.OverloadedCounter/target/test-classes/ConstructorSignature.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_2_06.OverloadedCounter/target/test-classes/CounterTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_2_06.OverloadedCounter/target/test-classes/MethodSignature.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_2_06.OverloadedCounter/target/test-classes/Utils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_2_07.BiggestPetShop/target/classes/MainProgram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_2_07.BiggestPetShop/target/classes/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_2_07.BiggestPetShop/target/classes/Pet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_2_07.BiggestPetShop/target/test-classes/TheBiggestPetShopTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_2_08.HealthStation/target/classes/HealthStation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_2_08.HealthStation/target/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_2_08.HealthStation/target/classes/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_2_08.HealthStation/target/test-classes/HealthStationTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_2_04.Books/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_04.Books/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_2_05.ConstructorOverload/src/main/java/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_05.ConstructorOverload/src/main/java/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_2_06.OverloadedCounter/src/main/java/MainProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_06.OverloadedCounter/src/main/java/MainProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_2_07.BiggestPetShop/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_07.BiggestPetShop/src/main/java/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_2_08.HealthStation/src/main/java/HealthStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_08.HealthStation/src/main/java/HealthStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_2_09.CardPayments/src/main/java/PaymentCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_09.CardPayments/src/main/java/PaymentCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_2_09.CardPayments/src/main/java/PaymentTerminal.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_09.CardPayments/src/main/java/PaymentTerminal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +56,12 @@
     "JUnit.All in 08_2_08.HealthStation (1).executor": "Run",
     "JUnit.All in 08_2_08.HealthStation (2).executor": "Run",
     "JUnit.All in 08_2_08.HealthStation.executor": "Run",
+    "JUnit.All in 08_2_09.CardPayments (1).executor": "Run",
+    "JUnit.All in 08_2_09.CardPayments (2).executor": "Run",
+    "JUnit.All in 08_2_09.CardPayments (3).executor": "Run",
+    "JUnit.All in 08_2_09.CardPayments (4).executor": "Run",
+    "JUnit.All in 08_2_09.CardPayments (5).executor": "Run",
+    "JUnit.All in 08_2_09.CardPayments.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -88,41 +69,41 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.All in 08_2_08.HealthStation (2)">
-    <configuration name="All in 08_2_06.OverloadedCounter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="08_2_06.OverloadedCounter" />
+  <component name="RunManager" selected="JUnit.All in 08_2_09.CardPayments (4)">
+    <configuration name="All in 08_2_09.CardPayments (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="08_2_09.CardPayments" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in 08_2_07.BiggestPetShop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="08_2_07.BiggestPetShop" />
+    <configuration name="All in 08_2_09.CardPayments (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="08_2_09.CardPayments" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in 08_2_08.HealthStation (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="08_2_08.HealthStation" />
+    <configuration name="All in 08_2_09.CardPayments (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="08_2_09.CardPayments" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in 08_2_08.HealthStation (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="08_2_08.HealthStation" />
+    <configuration name="All in 08_2_09.CardPayments (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="08_2_09.CardPayments" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in 08_2_08.HealthStation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="08_2_08.HealthStation" />
+    <configuration name="All in 08_2_09.CardPayments" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="08_2_09.CardPayments" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
@@ -131,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in 08_2_08.HealthStation (2)" />
-        <item itemvalue="JUnit.All in 08_2_08.HealthStation (1)" />
-        <item itemvalue="JUnit.All in 08_2_08.HealthStation" />
-        <item itemvalue="JUnit.All in 08_2_07.BiggestPetShop" />
-        <item itemvalue="JUnit.All in 08_2_06.OverloadedCounter" />
+        <item itemvalue="JUnit.All in 08_2_09.CardPayments (4)" />
+        <item itemvalue="JUnit.All in 08_2_09.CardPayments (3)" />
+        <item itemvalue="JUnit.All in 08_2_09.CardPayments (2)" />
+        <item itemvalue="JUnit.All in 08_2_09.CardPayments (1)" />
+        <item itemvalue="JUnit.All in 08_2_09.CardPayments" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +137,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740853788543</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="+8.4,8.5,8.6,8.7,8.8">
+      <option name="closed" value="true" />
+      <created>1740941626120</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740941626120</updated>
+    </task>
+    <task id="LOCAL-00003" summary="+8.4,8.5,8.6,8.7,8.8">
+      <option name="closed" value="true" />
+      <created>1740941647158</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740941647158</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
