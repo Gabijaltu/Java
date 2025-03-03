@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="283a04b6-b8bd-4da2-83b2-914ca9de411b" name="Changes" comment="+8.4,8.5,8.6,8.7,8.8">
+    <list default="true" id="283a04b6-b8bd-4da2-83b2-914ca9de411b" name="Changes" comment="8.9+">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_2_09.CardPayments/src/main/java/PaymentCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_09.CardPayments/src/main/java/PaymentCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_2_09.CardPayments/src/main/java/PaymentTerminal.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_09.CardPayments/src/main/java/PaymentTerminal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_2_10.ComparingApartments/src/main/java/Apartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_10.ComparingApartments/src/main/java/Apartment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +61,9 @@
     "JUnit.All in 08_2_09.CardPayments (4).executor": "Run",
     "JUnit.All in 08_2_09.CardPayments (5).executor": "Run",
     "JUnit.All in 08_2_09.CardPayments.executor": "Run",
+    "JUnit.All in 08_2_10.ComparingApartments (1).executor": "Run",
+    "JUnit.All in 08_2_10.ComparingApartments (2).executor": "Run",
+    "JUnit.All in 08_2_10.ComparingApartments.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -69,41 +71,41 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.All in 08_2_09.CardPayments (4)">
-    <configuration name="All in 08_2_09.CardPayments (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="08_2_09.CardPayments" />
+  <component name="RunManager" selected="JUnit.All in 08_2_10.ComparingApartments (5)">
+    <configuration name="All in 08_2_10.ComparingApartments (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="08_2_10.ComparingApartments" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in 08_2_09.CardPayments (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="08_2_09.CardPayments" />
+    <configuration name="All in 08_2_10.ComparingApartments (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="08_2_10.ComparingApartments" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in 08_2_09.CardPayments (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="08_2_09.CardPayments" />
+    <configuration name="All in 08_2_10.ComparingApartments (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="08_2_10.ComparingApartments" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in 08_2_09.CardPayments (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="08_2_09.CardPayments" />
+    <configuration name="All in 08_2_10.ComparingApartments (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="08_2_10.ComparingApartments" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in 08_2_09.CardPayments" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="08_2_09.CardPayments" />
+    <configuration name="All in 08_2_10.ComparingApartments (5)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="08_2_10.ComparingApartments" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
@@ -112,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in 08_2_09.CardPayments (4)" />
-        <item itemvalue="JUnit.All in 08_2_09.CardPayments (3)" />
-        <item itemvalue="JUnit.All in 08_2_09.CardPayments (2)" />
-        <item itemvalue="JUnit.All in 08_2_09.CardPayments (1)" />
-        <item itemvalue="JUnit.All in 08_2_09.CardPayments" />
+        <item itemvalue="JUnit.All in 08_2_10.ComparingApartments (5)" />
+        <item itemvalue="JUnit.All in 08_2_10.ComparingApartments (4)" />
+        <item itemvalue="JUnit.All in 08_2_10.ComparingApartments (3)" />
+        <item itemvalue="JUnit.All in 08_2_10.ComparingApartments (2)" />
+        <item itemvalue="JUnit.All in 08_2_10.ComparingApartments (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -153,13 +155,22 @@
       <option name="project" value="LOCAL" />
       <updated>1740941647158</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="8.9+">
+      <option name="closed" value="true" />
+      <created>1740994721220</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740994721220</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="+3" />
     <MESSAGE value="+8.4,8.5,8.6,8.7,8.8" />
-    <option name="LAST_COMMIT_MESSAGE" value="+8.4,8.5,8.6,8.7,8.8" />
+    <MESSAGE value="8.9+" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.9+" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
