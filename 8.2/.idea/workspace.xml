@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="283a04b6-b8bd-4da2-83b2-914ca9de411b" name="Changes" comment="8.10+">
+    <list default="true" id="283a04b6-b8bd-4da2-83b2-914ca9de411b" name="Changes" comment="8.11, 8.12+">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_2_11.DatingApp/src/main/java/SimpleDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_11.DatingApp/src/main/java/SimpleDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_2_12.Money/src/main/java/Money.java" beforeDir="false" afterPath="$PROJECT_DIR$/08_2_12.Money/src/main/java/Money.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +81,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/GH/Desktop/TECHIN/praktiniai darbai/JAVA_ABC/Java/Java/8.2",
+    "last_opened_file_path": "C:/Users/GH/Desktop/TECHIN/praktiniai darbai/JAVA_ABC/Java/Java/9.1",
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
@@ -187,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740995882987</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="8.11, 8.12+">
+      <option name="closed" value="true" />
+      <created>1741012543544</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741012543544</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -195,7 +201,8 @@
     <MESSAGE value="+8.4,8.5,8.6,8.7,8.8" />
     <MESSAGE value="8.9+" />
     <MESSAGE value="8.10+" />
-    <option name="LAST_COMMIT_MESSAGE" value="8.10+" />
+    <MESSAGE value="8.11, 8.12+" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.11, 8.12+" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
